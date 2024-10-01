@@ -18,7 +18,6 @@ obj-$(CONFIG_TOUCHSCREEN_COMMON)	    +=  lct_tp_work.o
 obj-$(CONFIG_TOUCHSCREEN_COMMON)	    +=  lct_tp_gesture.o
 obj-$(CONFIG_TOUCHSCREEN_COMMON)	    +=  lct_tp_grip_area.o
 obj-$(CONFIG_TOUCHSCREEN_COMMON)	    +=  lct_tp_palm.o
-obj-$(CONFIG_TOUCHSCREEN_COMMON)	    +=  xiaomi/
 obj-$(CONFIG_TOUCHSCREEN_FTS)	+=  ft3418_i2c/
 obj-$(CONFIG_TOUCHSCREEN_GOODIX_GTX8) += goodix_gtx8/
 obj-$(CONFIG_TOUCHSCREEN_NT36XXX_HOSTDL_SPI) += nt36xxx_spi/

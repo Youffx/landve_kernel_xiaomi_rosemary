@@ -192,7 +192,6 @@ config TOUCHSCREEN_GOODIX_BRL
 source "drivers/input/touchscreen/mediatek/goodix_berlin_driver/Kconfig"
 
 source "drivers/input/touchscreen/mediatek/ft3418_i2c/Kconfig"
-source "drivers/input/touchscreen/mediatek/xiaomi/Kconfig"
 
 config TOUCHSCREEN_COMMON
 	bool "Common touchscreen interface to interact with userspace"
